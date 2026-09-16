@@ -84,7 +84,7 @@ The dashboard provides visual insights into:
 
 ### Excel Dashboard
 
-![Excel Dashboard](images/Excel%20dashboard.png)
+![Excel Dashboard](images/Excel Dashboard.png)
 
 ### Power BI Dashboard
 
