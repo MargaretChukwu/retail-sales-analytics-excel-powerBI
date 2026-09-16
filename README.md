@@ -84,11 +84,11 @@ The dashboard provides visual insights into:
 
 ### Excel Dashboard
 
-![Excel Dashboard](images/excel-dashboard.png)
+![View Excel Dashboard](images/excel-dashboard.png)
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](images/powerbi-dashboard.png)
+![View Power BI Dashboard](images/powerbi-dashboard.png)
 
 - Total Sales
 - Total Profit
