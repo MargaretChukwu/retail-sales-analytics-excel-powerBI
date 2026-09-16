@@ -82,6 +82,14 @@ The project includes an interactive dashboard developed using Excel and Power BI
 
 The dashboard provides visual insights into:
 
+### Excel Dashboard
+
+![Excel Dashboard](images/Excel%20dashboard.png)
+
+### Power BI Dashboard
+
+![Power BI Dashboard](images/powerBI.png)
+
 - Total Sales
 - Total Profit
 - Transactions
