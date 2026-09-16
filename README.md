@@ -125,11 +125,11 @@ I am an aspiring Data Analyst developing practical skills in **Excel, Power BI, 
 
 This project demonstrates my ability to transform raw data into structured analysis, visual insights, and actionable business recommendations.
 
+
 ## 🔗 Portfolio
 
-My portfolio website will be linked here after it is created.
+🌐 [View My Data Science Portfolio](https://www.datascienceportfol.io/MargaretChukwu)
 
----
 
 **Author:** Margaret Chukwu  
 **Tools:** Excel | Power Query | Power BI  
